@@ -7,7 +7,9 @@ public class Lab01a {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Sir Syed University");
+		System.out.println("Software Engineering Department");
 
 	}
 
 }
+
